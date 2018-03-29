@@ -1,11 +1,10 @@
 # springboard_relaxinc_takehomechallenge
 
-This repository contains my take home challenge for Relax Inc. from Springboard's Data Science Career Track bootcamp. The objective of this challenge is to predict user adoption for a product given user data and user login activity.
+This repository contains my take home challenge for Relax Inc. from Springboard's Data Science Career Track bootcamp. The objective of this challenge is to predict user adoption for a product given user data and user login activity. The task is pasted below:
 
 The  data  is  available  as  two  attached  CSV  files:
 
-takehome_user_engagement. csv
-takehome_users . csv
+takehome_user_engagement. csv, takehome_users . csv
 
 The  data  has  the  following  two  tables:
 
